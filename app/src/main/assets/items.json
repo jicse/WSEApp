@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Sony 460S camera",
+    "price": 45000,
+    "image": "http://www.digitalcamerawarehouse.com.au/productimage_10466_main.jpg?v=22",
+    "description": "Digital Camera",
+    "stock": "0"
+  },
+  {
+    "name": "Sony Television",
+    "price": 65000,
+    "image": "http://www.getitnow.gr/MEDIA/content_CustomProductCatalog/m1021461pp_SON Y-KDL-32EX600AEP-left-500.jpg",
+    "description": "Sony 42 Inch television",
+    "stock": "10"
+  },
+  {
+    "name": "Hp Printer",
+    "price": 5000,
+    "image": "http://www.computershopper.com/var/ezwebin_site/storage/images/printers/prod uct-profile/hp-officejet-4630-e-all-in-one/1122449-2-eng-US/hp-officejet-4630-e-all- in-one.jpg",
+    "description": "Hp Officejet 4630 ",
+    "stock": "0"
+  },
+  {
+    "name": "Iron Box",
+    "price": 900,
+    "image": "http://asndeal.com/admin/image/Product_image/big/1437194530.jpeg",
+    "description": "Bajaj Iron box",
+    "stock": "10"
+  },
+  {
+    "name": "Washing Machine",
+    "price": 9800,
+    "image": "http://www.electrodepot.fr/media/catalog/product/cache/1/image/500x/9df78eab 33525d08d6e5fb8d27136e95/P946275-2.jpg",
+    "description": "LG Washing Machine",
+    "stock": "0"
+  },
+  {
+    "name": "Refrigerator",
+    "price": 15000,
+    "image": "http://www.brandsmartusa.com/images/product/addl/large/16884.jpg?isrc=1111",
+    "description": "Samsung Double deck",
+    "stock": "10"
+  },
+  {
+    "name": "Home Theater",
+    "price": 5000,
+    "image": "http://shoprex.com/images/SRProducts/mid/onida-hts-harmony-3000- home-theaters_7285.jpg",
+    "description": "Phillips Home Theater",
+    "stock": "0"
+  },
+  {
+    "name": "Air conditioner",
+    "price": 25000,
+    "image": "http://i.ebayimg.com/00/s/MzUwWDU1OA==/z/1owAAOSw- itXtl96/$_27.JPG",
+    "description": "Haier Airconditioner",
+    "stock": "10"
+  },
+  {
+    "name": "Presitige Grinder",
+    "price": 3900,
+    "image": "http://3.imimg.com/data3/AQ/TK/MY-10984326/ultima-duro-grinder- 500x500.jpg",
+    "description": "Dura Grinder",
+    "stock": "0"
+  },
+  {
+    "name": "Laptop",
+    "price": 35000,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41SsA32E%2BOL.jpg",
+    "description": "Asus Laptop",
+    "stock": "10"
+  }
+]
